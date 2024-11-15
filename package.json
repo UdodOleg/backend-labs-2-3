@@ -1,0 +1,11 @@
+{
+  "name": "udod_lab2_3",
+  "version": "1.0.0",
+  "description": "Лабораторна робота студента 4 курсу Удода О.С.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Удод О.С.",
+  "license": "ISC"
+}
